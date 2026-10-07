@@ -2,7 +2,6 @@ import random
 
 def main():
      print("Khansole Academy")
-    # TODO: your code here
     
      first = random.randint(1, 100)
      second = random.randint(1, 100)

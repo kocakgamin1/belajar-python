@@ -7,10 +7,5 @@ def main():
         print(curr_value)
 
 
-
-
-
-
-
 if __name__ == "__main__":
     main()
