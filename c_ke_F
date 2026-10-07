@@ -1,3 +1,7 @@
-c = int(input("Enter a number: "))
-f = (c * 9/5) + 32
-print(f"{c} degrees Celsius is equal to {f} degrees Fahrenheit.")
+def main():
+    c = int(input("Enter a number: "))
+    f = (c * 9/5) + 32
+    print(f"{c} degrees Celsius is equal to {f} degrees Fahrenheit.")
+
+if __name__ == "__main__":
+    main()
